@@ -1,0 +1,13 @@
+name = "Create Faster"
+author = "Ninja Neo"
+version = "2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd55210041f1dfd3253976c9b05588c7177a9c149e1e6b50af3c6283dda67296"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.105"
