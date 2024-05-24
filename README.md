@@ -4,6 +4,9 @@ Is a modpack that is focused on performance.
 # Mods
 - Create 
 - Create Enchantment Industry
+- Create Garnished
+- Create Diesel Generators
+- Create Crafts & Additions
 - Farmer's delight
 - JEI
 - Embeddium
