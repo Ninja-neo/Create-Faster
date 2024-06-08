@@ -14,6 +14,7 @@ Is a modpack that is focused on performance.
 - Ferrite Core
 - Lazurite
 - Memory Leak Fix
+- Storage Drawers
 - Xaero Mini Map
 - Xaero World Map
 
