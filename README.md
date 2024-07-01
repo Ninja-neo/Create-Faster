@@ -12,7 +12,6 @@ Is a modpack that is focused on performance.
 - Embeddium
 - Entity Culling
 - Ferrite Core
-- Lazurite
 - Memory Leak Fix
 - Storage Drawers
 - Xaero Mini Map
