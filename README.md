@@ -2,20 +2,45 @@
 Is a modpack that is focused on performance.
 
 # Mods
-- Create 
-- Create Enchantment Industry
-- Create Garnished
-- Create Diesel Generators
+<details>
+<summary>Client Version Mods</summary>
+<br>
+
+- Create
 - Create Crafts & Additions
-- Farmer's delight
-- JEI
+- Create Deco
+- Create Enchantment Industry
+- Create: Diesel Generators
+- Create: Garnished
 - Embeddium
 - Entity Culling
-- Ferrite Core
+- Farmer's Delight
+- FerriteCore
+- Just Enough Items
 - Memory Leak Fix
 - Storage Drawers
-- Xaero Mini Map
-- Xaero World Map
+- Xaero's Minimap
+- Xaero's World Map
+
+</details>
+
+<details>
+<summary>Server Version Mods</summary>
+<br>
+
+- Create
+- Create Crafts & Additions
+- Create Deco
+- Create Enchantment Industry
+- Create: Diesel Generators
+- Create: Garnished
+- Farmer's Delight
+- FerriteCore
+- Memory Leak Fix
+- Radium
+- Storage Drawers
+
+</details>
 
 # FAQ
 Q: is forge/neoforge slower than fabric? A: No, see this video: [![](https://img.youtube.com/vi/D47AhiOmmis/0.jpg)](https://www.youtube.com/watch?v=D47AhiOmmis)
