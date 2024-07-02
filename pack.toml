@@ -1,0 +1,13 @@
+name = "Create Faster SERVER"
+author = "Ninja Neo"
+version = "v2.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "57301cc776eae9b7a98ac3c5b0bf7f49938689e7704878e366f2e7357ce61d64"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.105"
