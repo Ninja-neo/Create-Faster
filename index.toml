@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "80061143ef327fe4611e10a6c2bce219be4fb893260106a321c6628e151a57ec"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "df184e78d07f0908fa7ed32de5d81ff1c5cd3712cd4c5eb5e285b387beb56048"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "4b24c521fec3618fa37b104bffe35c7a4b0b77032ec08b74bedda9214df6ac21"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "99be0b2fa7ea4644a9a56729998fe4724bbd829598a9ffd7d746ee468dd4111b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+metafile = true
